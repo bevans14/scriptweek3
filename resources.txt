@@ -1,0 +1,10 @@
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_objects.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+https://www.w3schools.com/jsref/jsref_getday.asp
+https://www.youtube.com/watch?v=930K1dDJjS0
+https://forum.freecodecamp.org/t/is-a-return-statement-always-necessary/186840/4
+
+
+
+To me JS feels like condensing alot of data into a few words and putting those words where they need to go
